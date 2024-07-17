@@ -11,7 +11,7 @@ Este projeto demonstra como criar um chat bot utilizando uma API do GEMINI. Ele 
 ![image](https://github.com/user-attachments/assets/b3da8daa-b5c4-4bbd-92f4-b712d3943963)
 2. Importe uma biblioteca no seu script: <br/>
 ![image](https://github.com/user-attachments/assets/ed34181d-18dc-4449-9ffa-fb40c8d75e19)
-3. Configure uma chave de API. No exemplo abaixo, a chave da API foi recuperada de um arquivo de usuário no Google Colab. Adapte conforme necessário para seu ambiente: <br/>
+3. Configure uma chave de API. A chave da API foi recuperada de um arquivo de usuário no Google Colab. Adapte conforme necessário para seu ambiente: <br/>
 ![image](https://github.com/user-attachments/assets/f538354b-3859-4985-a8ce-2e4857b3df4d)
 
 ## Listagem de Modelos
